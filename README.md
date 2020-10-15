@@ -1,2 +1,2 @@
 # test_mgit
-test repo for android mgit clietn
+test repo for android mgit client
